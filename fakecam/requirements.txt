@@ -1,0 +1,5 @@
+mccabe==0.6.1
+numpy==1.18.4
+opencv-python==4.2.0.34
+pyfakewebcam==0.1.0
+requests==2.23.0
